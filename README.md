@@ -1,0 +1,2 @@
+# Damaged-Document-Restoration-Prediction-and-Reconstruction-of-Text-using-NLP
+An intelligent document restoration system leveraging Optical Character Recognition (OCR), Natural Language Processing (NLP), and generative AI to reconstruct damaged or incomplete text. The application enhances document readability by extracting, analyzing, and contextually predicting missing content from degraded inputs.
